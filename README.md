@@ -23,6 +23,7 @@ This repository is created for practicing **modern JavaScript (ES6)** concepts w
 ✔ Promises & Async/Await  
 
 ## 📂 Folder Structure
+```
 ES6/
 ├── API Fetch/
 ├── Arrow Functions/
@@ -44,7 +45,7 @@ ES6/
 ├── Template literals/
 ├── Variables (let, const)/
 └── README.md
-
+```
 ## 🚀 How to Use
 1. Clone the repository  
 git clone <repository-link>  
