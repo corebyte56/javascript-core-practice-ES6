@@ -42,8 +42,13 @@ ES6/
 ├── Promises & Async Await/
 ├── Reduce Method/
 ├── Spread & Rest Operators/
+|   ├── rest.js
+|   └── restSum.js
 ├── Template literals/
 ├── Variables (let, const)/
+|   ├── const.js
+|   ├── let.js
+|   └── var.js
 └── README.md
 ```
 ## 🚀 How to Use
